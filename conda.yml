@@ -1,0 +1,12 @@
+name: 3d-scanning
+channels:
+  - conda-forge
+  - open3d-admin
+  - nodefaults
+dependencies:
+  - python=3.9
+  - open3d
+  - pillow
+  - autopep8
+  - numpy
+  - opencv
